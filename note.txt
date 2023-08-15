@@ -1,1 +1,1 @@
-deployed version link: https://next-basic-blog-by-shiplu.netlify.app/
+deployed version link: https://next-basic-blog-shiplu2111.vercel.app/
