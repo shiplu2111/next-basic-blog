@@ -1,0 +1,28 @@
+
+.container {
+    padding-top:50px;
+    max-width : 900px;
+    margin: 0 auto;
+  }
+  .articleFeatured {
+    border-bottom: #707070 1px solid;
+    padding-bottom: 2em;
+    margin-bottom: 2em;
+}
+.articleTitle {
+    font-size: 1.5rem;
+    padding: .5em 0;
+}
+
+.articleInfo {
+    font-size: 1rem;
+    margin-bottom: .5em;
+}
+
+.articleBody{
+    width: 100%;
+    text-align: justify;
+    line-height: normal;
+    font-size: medium;
+  }
+  

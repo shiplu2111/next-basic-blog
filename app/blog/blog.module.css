@@ -1,0 +1,24 @@
+
+.container {
+  max-width : 900px;
+  margin: 0 auto;
+}
+
+
+.author {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  font-size: small;
+}
+
+
+.allPost{
+  display:flex;
+  margin-top:30px;
+  justify-content: space-between;
+}
+
+.post {
+  width: 31%;
+}
